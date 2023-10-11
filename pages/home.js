@@ -98,11 +98,11 @@ export default function Home() {
           src="/landing.gif"
           alt="Spinning White Fire GIF"
         />
-        <h1 className="font-black text-5xl sm:text-6xl lg:text-8xl">
+        <h1 className="font-bold text-5xl sm:text-6xl lg:text-8xl text-center text-white">
           BOOM-NEAR
         </h1>
-        <h3 className="font-extralight text-lg sm:text-xl lg:text-2xl">
-          Decentralized High Definition Music
+        <h3 className="font-light text-lg sm:text-xl lg:text-2xl text-center text-white">
+          Decentralized HD Music
         </h3>
         <button
           onClick={() => {
