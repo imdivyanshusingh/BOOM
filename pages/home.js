@@ -93,11 +93,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="absolute flex flex-col items-center justify-center gap-2 w-screen h-screen max-w-screen max-h-screen top-0 left-0 z-10">
-        <img
-          className="w-64 h-64"
-          src="/pngtree-white-headphones-png-image_2456458.jpg"
-          
-        />
         <h1 className="font-bold text-5xl sm:text-6xl lg:text-8xl text-center text-white">
           BOOM-NEAR
         </h1>
